@@ -28,6 +28,13 @@ A 2D simulator of an intelligent vacuum-cleaning robot built using **Python + Op
 
 ## 📁 Project Structure
 
+
+git clone https://github.com/your-username/robot-vacuum-sim.git
+cd robot-vacuum-sim
+pip install -r requirements.txt
+python3 main.py
+
+
 ```bash
 robot-vacuum-sim/
 ├── main.py         # Main loop (simulation control)
@@ -36,3 +43,5 @@ robot-vacuum-sim/
 ├── map.py          # Environment and obstacle setup
 ├── planner.py      # Path planning and coverage algorithms
 ├── config.py       # Constants (map size, speed, etc.)
+
+
