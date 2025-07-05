@@ -29,7 +29,7 @@ A 2D simulator of an intelligent vacuum-cleaning robot built using **Python + Op
 
 git clone https://github.com/your-username/robot-vacuum-sim.git
 cd robot-vacuum-sim
-pip install -r requirements.txt
+pip install opencv-python numpy
 python3 main.py
 
 
